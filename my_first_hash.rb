@@ -1,13 +1,13 @@
 def my_hash
 
-my_hash {"Color" => "Orange", "Name" => "Beter", "Shoes" => "shined"}
+my_hash = {"Color" => "Orange", "Name" => "Beter", "Shoes" => "shined"}
 
 end
 
 
 def shipping_manifest
 
-  the_manifest {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
+  the_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
 
 end
 
